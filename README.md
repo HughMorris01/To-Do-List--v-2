@@ -1,4 +1,4 @@
-This is a Node.js to-do list web application that uses EJS and interfaces witha a MongoDB for persistant storage. It was built along with instruction from Udemy's Complete Web Developer Course.
+This is a Node.js to-do list web application that uses EJS and interfaces witha a MongoDB for persistant storage.
 
 The live app is hosted at:
 
